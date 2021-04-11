@@ -1,7 +1,7 @@
 import sys
 
 from audio.microphone import audio_capture
-from common.process_sync import reset_signals, should_stop, signal_stop, has_started, signal_start
+from common.process_sync import reset_signals, signal_stop, has_started, signal_start
 from video.camera import video_capture
 
 
