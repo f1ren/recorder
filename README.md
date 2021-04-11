@@ -1,5 +1,6 @@
 # recorder
 
+Proof of concept for capturing video and audio.
 
 ## Record video and audio
 ```
